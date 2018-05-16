@@ -7,6 +7,6 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
-  - sklearn
+  - scikit-learn
   - torch
   - torchvision
