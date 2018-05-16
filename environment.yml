@@ -8,5 +8,5 @@ dependencies:
   - pandas
   - scipy
   - scikit-learn
-  - torch
+  - pytorch
   - torchvision
