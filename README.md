@@ -12,19 +12,21 @@ Mit der Veröffentlichung von word2vec änderte sich ab 2013 die Ausgangslage im
 ## PDF Dokument
 
 Das Dokument ist hier verfügbar: [word2vec_Schritt_fuer_Schritt.pdf](https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/word2vec_Schritt_fuer_Schritt.pdf)
+<br>
 <a href="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/word2vec_Schritt_fuer_Schritt.pdf">
-<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/pdf_icon.jpg" width="300" height="418" title="PDF Dokument">
+<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/pdf_icon.jpg" width="200" height="280" title="PDF Dokument">
 </a>
 
 
 
 ## Beispiel
 Die zugrundeliegenden Berechnungen für das Beispiel sind folgendermassen zugänglich:
-- Jupyter Notebook als Read-only und zum Download
 <a href="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/word2vec_Schritt_fuer_Schritt.pdf">
-<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/Ausschnitt_Notebook.png" width="600" height="288" title="Jupyter Notebook">
+<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/Ausschnitt_Notebook.png" width="400" height="192" title="Jupyter Notebook">
 </a>
+###Jupyter Notebook als Read-only und zum Download
+[Notebook word2vec_Schritt_fuer_Schritt](https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/word2vec_Schritt_fuer_Schritt.ipynb)
 
+###Interaktiv
+[via binder als interaktives Notebook word2vec_Schritt_fuer_Schritt](https://mybinder.org/v2/gh/thomasbriner/word2vec-Schritt-fuer-Schritt/master?filepath=word2vec_Schritt_fuer_Schritt.ipynb)
 
-
-- interaktiv unter https://mybinder.org/v2/gh/thomasbriner/word2vec_Schritt_fuer_Schritt/master?filepath=word2vec_Schritt_fuer_Schritt.ipynb
