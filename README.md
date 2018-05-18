@@ -10,15 +10,20 @@ Mit der Veröffentlichung von word2vec änderte sich ab 2013 die Ausgangslage im
 
 
 ## PDF Dokument
-Das Dokument ist hier verfügbar
-[![alt text](https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/pdf_icon.jpg =250x "PDF Dokument word2vec Schritt für Schritt")](https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/word2vec_Schritt_fuer_Schritt.pdf)
+
+Das Dokument ist hier verfügbar: [word2vec_Schritt_fuer_Schritt.pdf](https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/word2vec_Schritt_fuer_Schritt.pdf)
+<a href="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/word2vec_Schritt_fuer_Schritt.pdf">
+<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/pdf_icon.jpg" width="300" height="418" title="PDF Dokument">
+</a>
 
 
 
 ## Beispiel
 Die zugrundeliegenden Berechnungen für das Beispiel sind folgendermassen zugänglich:
 - Jupyter Notebook als Read-only und zum Download
-[![alt text](https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/Ausschnitt_Notebook.png =500x "PDF Dokument word2vec Schritt für Schritt")](https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/word2vec_Schritt_fuer_Schritt.ipynb)
+<a href="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/word2vec_Schritt_fuer_Schritt.pdf">
+<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/Ausschnitt_Notebook.png" width="600" height="288" title="Jupyter Notebook">
+</a>
 
 
 
