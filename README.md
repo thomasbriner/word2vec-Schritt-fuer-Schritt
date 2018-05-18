@@ -21,7 +21,7 @@ Das Dokument ist hier verfügbar: [word2vec_Schritt_fuer_Schritt.pdf](https://gi
 
 ## Beispiel
 
-<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/images/forward.png", width="700" height="245" title="Beispiel">
+<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/images/forward.png" width="700" height="245" title="Beispiel">
 
 Die zugrundeliegenden Berechnungen für das Beispiel sind folgendermassen zugänglich:
 
