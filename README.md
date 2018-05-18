@@ -20,13 +20,17 @@ Das Dokument ist hier verfügbar: [word2vec_Schritt_fuer_Schritt.pdf](https://gi
 
 
 ## Beispiel
+
+<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/images/forward.png", width="700" height="245" title="Beispiel">
+
 Die zugrundeliegenden Berechnungen für das Beispiel sind folgendermassen zugänglich:
-<a href="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/raw/master/word2vec_Schritt_fuer_Schritt.pdf">
-<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/Ausschnitt_Notebook.png" width="400" height="192" title="Jupyter Notebook">
-</a>
-###Jupyter Notebook als Read-only und zum Download
+
+### Jupyter Notebook als Read-only und zum Download
 [Notebook word2vec_Schritt_fuer_Schritt](https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/word2vec_Schritt_fuer_Schritt.ipynb)
 
-###Interaktiv
+<img src="https://github.com/thomasbriner/word2vec-Schritt-fuer-Schritt/blob/master/images/Ausschnitt_Notebook.png" width="400" height="192" title="Jupyter Notebook">
+
+
+### Interaktiv
 [via binder als interaktives Notebook word2vec_Schritt_fuer_Schritt](https://mybinder.org/v2/gh/thomasbriner/word2vec-Schritt-fuer-Schritt/master?filepath=word2vec_Schritt_fuer_Schritt.ipynb)
 
