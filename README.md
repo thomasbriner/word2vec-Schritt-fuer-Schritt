@@ -6,8 +6,7 @@ Thomas Briner, thomas.briner@gmail.com
 
 ## Abstract
 
-Mit der Veröffentlichung von word2vec änderte sich ab 2013 die Ausgangslage im Gebiet des Natural Language Processing (NLP) grundsätzlich. Die Resultate von word2vec übertrafen die bisherigen Ansätze bezüglich der Qualität wie auch der Performance deutlich. Das Grundprinzip von word2vec, dass basierend auf einem Kontext die passenden Wörter vorausgesagt werden, ist ausgesprochen einleuchtend und intuitiv. Wieso  dies aber zu Word Embeddings führt, die sowohl für semantische als auch syntaktische Problemstellungen hervorragende Resultate erzielen, ist überraschend. In dieser Arbeit wird die Funktionsweise von word2vec Schritt für Schritt durchleuchtet und anhand eines konkreten Beispiels greifbar gemacht.
-
+Mit der Veröffentlichung von word2vec änderte sich ab 2013 die Ausgangslage im Gebiet des Natural Language Processing (NLP) grundsätzlich. Die Resultate von word2vec übertrafen die bisherigen Ansätze bezüglich der Qualität wie auch der Performance deutlich. Das Grundprinzip von word2vec, dass basierend auf einem Kontext die passenden Wörter vorausgesagt werden, ist einleuchtend und intuitiv. Um die Details der Realisierung zu verstehen, ist aber ein vertiefter Blick auf die Modelle notwendig. In dieser Arbeit wird die Funktionsweise von word2vec Schritt für Schritt durchleuchtet und anhand eines konkreten Beispiels greifbar gemacht.
 
 ## PDF Dokument
 
