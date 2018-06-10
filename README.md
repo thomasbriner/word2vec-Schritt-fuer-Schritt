@@ -7,7 +7,7 @@ Thomas Briner, thomas.briner@gmail.com
 ## Abstract
 
 Mit der Veröffentlichung von word2vec 2013 änderte sich die Ausgangslage im Gebiet des Natural Language Processing (NLP) grundsätzlich.
-Mittels word2vec konnten dichte kontinuierliche \textit{Word Embeddings} effizient erzeugt werden, die für viele Anwendungen hervorragende
+Mittels word2vec konnten dichte kontinuierliche Word Embeddings effizient erzeugt werden, die für viele Anwendungen hervorragende
 Eigenschaften haben. Die Resultate von word2vec übertrafen die bisherigen Ansätze bezüglich der Qualität wie auch der Performance deutlich.
 word2vec ist ein Framework, das zwei unterschiedliche Modelle und verschiedene Optimierungen
 für die Erstellung der Word Embeddings bietet.
